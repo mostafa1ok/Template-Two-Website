@@ -930,7 +930,7 @@ header .form i {
   image-rendering: -webkit-optimize-contrast;
   -ms-interpolation-mode: nearest-neighbor;
 }
-.porto-images .box:nth-child(8) {
+/* .porto-images .box:nth-child(8) {
   perspective: 3000px;
   transform-style: preserve-3d;
   background-color: antiquewhite;
@@ -958,7 +958,7 @@ header .form i {
   -moz-transition: 0ms;
   -ms-transition: 0ms;
   -o-transition: 0ms;
-}
+} */
 .porto-images .box:nth-child(5) h4,
 .porto-images .box:nth-child(5) p {
   -webkit-text-fill-color: #fefbfc;
